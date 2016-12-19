@@ -26,7 +26,7 @@ Keyword         | Description
 USERNAME#       | Your GitHub username
 YOURNAME#       | Your actual name
 APPNAME#        | The name of your application
-APPNAMEURL#     | The *URL safe** name of your application
+APPNAMEURL#     | The *URL safe* name of your application
 APPSUBJECT#     | The subject of your app (Image Editing Software, File Conversion, Audio Analysis)
 APPKEYWORDS#    | Comma separated keywords for you application.
 APPDESCRIPTION# | A sentence describing your application. (APPNAME# lets you XYZ)
@@ -40,4 +40,4 @@ APPUA#          | Your Google Analytics ID number, like `UA-67786036-1`
 
 * Adjust the `_scripts\main.js` file as needed.
 
-This templated assumes you are publishing releases on GitHub that start with the OS name, like `WIN_AppName_0.1.0.zip`. If you aren't, you will need to modify it.
+This template assumes you are publishing releases on GitHub that start with the OS name, like `WIN_AppName_0.1.0.zip`. If you aren't, you will need to modify it.
