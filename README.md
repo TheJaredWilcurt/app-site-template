@@ -8,7 +8,7 @@
 
 ## REMOVE THE FOLLOWING
 
-Here is an example site using this template:
+Here are example sites based on this template:
 
 * http://flif.info/UGUI_FLIF
 * http://TheJaredWilcurt.github.io/UGUI-Git-Branch-Deleter
