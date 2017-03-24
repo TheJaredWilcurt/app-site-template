@@ -1,4 +1,4 @@
-#APPNAME# Website
+# APPNAME# Website
 
 <p align="center"><img src="_img/logo.png" alt="APPNAME# logo"></p>
 
